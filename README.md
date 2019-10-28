@@ -7,18 +7,11 @@ Introduction
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
 **Advance System** -- The project Advance System includes Admin login, Staff login. Staff login enables staffs to view their advance(payment) details and also their advance(payment) approval status. Admin login enables admin to confirm  the advance applied by the staff by their department. They can either accept or reject the advance(payment) request. Admin can also generate various reports on the advance(payment) details. Advance limit of staff calculate automatically and updated. Staff can not apply more advance(payment) request when their advance(payment) limit is reached to zero.
-                     The Advance System can be entered using a user id and password. It is accessible either by staff or admin. Only they can add data in database. The data can be retrieve easily. The interface is very user-friendly. The data are well protected for personal use and makes the data processing very fast. 
 
-**Download & Preview on [AdminLTE.IO](https://adminlte.io)**
 
-### Looking for Premium Templates?
-**AdminLTE.IO just opened a new premium templates website. Hand picked to ensure the best quality and the most affordable prices. Visit https://themequarry.com for more information.**
+## PURPOSE OF PROJECT
+   The purpose of developing Advance System is to computerized the tradition way of requesting for a Advance(payment). Another purpose for developing this software is to generate the report automatically and save all advance(payment) records for the future purpose. 
 
-## Documentation & Installation Guide
-Visit the [online documentation](https://adminlte.io/docs) for the most
-updated guide.
-
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
