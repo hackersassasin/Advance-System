@@ -9,4 +9,4 @@ Introduction
 
 
 ## CONCLUSION 
-   Normally conventional system we use maximum manual applications. It consumes lots of time and paper. But this system totally Web based, it means that staff can enter into the system very easily. This system is totally user friendly and timesaving and cost effective system. All the modules are designed in a way that a any person can understand the system very easily.
+   Normally conventional system we use maximum manual applications. It consumes lots of time and paper. But this system totally Web based, it means that staff can enter into the system very easily. This system is totally user friendly and timesaving and cost effective. All the modules are designed in a way that a any person can understand the system very easily.
