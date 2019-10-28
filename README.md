@@ -6,7 +6,8 @@ Introduction
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
-**Advance System** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+**Advance System** -- The project Advance System includes Admin login, Staff login. Staff login enables staffs to view their advance(payment) details and also their advance(payment) approval status. Admin login enables admin to confirm  the advance applied by the staff by their department. They can either accept or reject the advance(payment) request. Admin can also generate various reports on the advance(payment) details. Advance limit of staff calculate automatically and updated. Staff can not apply more advance(payment) request when their advance(payment) limit is reached to zero.
+                     The Advance System can be entered using a user id and password. It is accessible either by staff or admin. Only they can add data in database. The data can be retrieve easily. The interface is very user-friendly. The data are well protected for personal use and makes the data processing very fast. 
 
 **Download & Preview on [AdminLTE.IO](https://adminlte.io)**
 
